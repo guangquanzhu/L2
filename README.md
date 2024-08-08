@@ -1,9 +1,14 @@
 # SQLyog Community - 64 bit
 扎气球……len(nums)，[1] + nums + [1]，left >= right - 1，val[left] * val[i] * val[right]，solve(left, i) + solve(i, right)
+
 ……B、A[i]，E、C[k]+1，G、1，I、k和C[k]，C、3，2 4，0
+
 ……C、试探法，B、回溯法，D、对分查找法，E、归纳法，A、演绎法
+
 拱形回文数……C、A[n-i+1] ，E、T&&A[i]>0，F、T  ，  I、n  ， F、T
+
 需求工程分为……B、需求管理，D、变更控制，G、版本控制，F、需求跟踪，E、需求状态跟踪
+
 软件在它的生命周期……bug，软件错误，软件缺陷，软件故障，软件失效
 
 随着软件开发的不断发展……版本控制，变更控制，团队支持，审计控制，构造支持
