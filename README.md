@@ -1,4 +1,4 @@
-# Level-2-technician
+# L2
 扎气球……len(nums)，[1] + nums + [1]，left >= right - 1，val[left] * val[i] * val[right]，solve(left, i) + solve(i, right)
 ……B、A[i]，E、C[k]+1，G、1，I、k和C[k]，C、3，2 4，0
 ……C、试探法，B、回溯法，D、对分查找法，E、归纳法，A、演绎法
